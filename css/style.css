@@ -100,10 +100,6 @@ a {
                #shop-button a {
                     font-size: 0.6rem;
                }
-
-          #shop-button a::after {
-               content: " + PICKUP IN STORE"
-          }
      }
 
 /* SLIDER */
